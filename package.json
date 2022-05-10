@@ -2,7 +2,7 @@
   "name": "react-app-myfood",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lohith.github.io/my-food-app-react",
+  "homepage": "http://lohith-3.github.io/my-food-app-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
