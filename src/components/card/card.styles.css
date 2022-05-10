@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Karma&display=swap");
+.card-list {
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.card-list img {
+  width: 100%;
+  min-height: 200px;
+  max-height: 300px;
+}
+.card-list h3 {
+  margin: 1rem 0;
+  font-family: "Karma", serif;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+.card-list p {
+  font-family: "Karma", serif;
+  font-weight: 400;
+  margin-bottom: 0.8rem;
+}
+.card-list:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}

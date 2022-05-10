@@ -1,0 +1,15 @@
+/* .search-box {
+  width: 100%;
+  justify-self: center;
+} */
+.search-field {
+  width: 100%;
+  padding: 1rem 0.8rem;
+  letter-spacing: 2px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+}
+.search-field:focus {
+  outline: none;
+  border: 1px solid #000;
+}
